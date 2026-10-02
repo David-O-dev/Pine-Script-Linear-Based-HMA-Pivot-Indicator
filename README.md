@@ -1,0 +1,1 @@
+# Pine-Script-Linear-Based-HMA-Pivot-Indicator
